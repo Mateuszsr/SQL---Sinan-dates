@@ -47,4 +47,4 @@ SELECT
   
   -- metadados
   CURRENT_TIMESTAMP() AS load_timestamp
-FROM `your_project.your_dataset.violencias_raw`;
+FROM `project.violencias_raw`;
